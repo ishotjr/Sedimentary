@@ -1,0 +1,4 @@
+<svg class="background">
+  <image href="maud-pie-348x250.png" />
+  <text id="myLabel" />
+</svg>

@@ -1,0 +1,10 @@
+{
+  "fitbit": {
+    "appUUID": "23be4ff8-4843-4e06-92d2-a001f1ae86db",
+    "appType": "clockface",
+    "appDisplayName": "Sedimentary",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": []
+  }
+}
