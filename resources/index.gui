@@ -1,4 +1,6 @@
 <svg class="background">
+  <rect x="0" y="0" width="100%" height="65%" fill="#8a8892" /> 
+  <rect x="0" y="65%" width="100%" height="35%" fill="#4f3d6b" />
   <image href="maud-pie-348x250.png" />
   <text id="myLabel" />
 </svg>
