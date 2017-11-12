@@ -7,7 +7,7 @@
   font-family: System-Bold;
   text-length: 8; /* only need 5, but it gets rounded up to multiple of 4 */
   text-anchor: end; /* right justify */
-  x: 91%;
-  y: 55%-49; /* 49px font */
+  x: 94%;
+  y: 58%-49; /* 49px font */
   fill: #8fdfcf;
 }

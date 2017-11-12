@@ -15,7 +15,7 @@ function updateClock() {
   let hours = today.getHours();
   let mins = util.zeroPad(today.getMinutes());
 
-  myLabel.innerText = `${hours}:${mins}`;
+  myLabel.text = `${hours}:${mins}`;
 }
 
 // Update the clock every tick event
